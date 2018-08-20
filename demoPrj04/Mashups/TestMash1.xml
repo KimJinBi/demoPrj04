@@ -15,7 +15,7 @@
          description=""
          documentationContent=""
          homeMashup=""
-         lastModifiedDate="2018-08-19T20:34:04.982-05:00"
+         lastModifiedDate="2018-08-19T22:37:13.027-05:00"
          name="TestMash1"
          projectName="demoPrj04"
          rows="0.0"
@@ -376,44 +376,6 @@
                             "__TypeDisplayName" : "Panel"
                           },
                           "Widgets" : [ {
-                            "Properties" : {
-                              "ActiveStyle" : "DefaultButtonActiveStyle",
-                              "Area" : "UI",
-                              "CancelConfirmationButton" : "button2",
-                              "ConfirmationButton1Label" : "Yes",
-                              "ConfirmationButton2Label" : "No",
-                              "ConfirmationPrompt" : "Do Action?",
-                              "ConfirmationRequired" : false,
-                              "ConfirmationTitle" : "Confirm Action",
-                              "ContextId" : "",
-                              "DefaultConfirmationButton" : "button1",
-                              "Disabled" : false,
-                              "DisabledStyle" : "DefaultButtonDisabledStyle",
-                              "DisplayName" : "button-16",
-                              "FocusStyle" : "DefaultButtonFocusStyle",
-                              "Height" : 30,
-                              "HoverStyle" : "DefaultButtonHoverStyle",
-                              "IconAlignment" : "left",
-                              "Id" : "button-16",
-                              "Label" : "Button",
-                              "Left" : 25,
-                              "ResponsiveLayout" : false,
-                              "RoundedCorners" : true,
-                              "ShowDataLoading" : true,
-                              "Style" : "DefaultButtonStyle",
-                              "TabSequence" : 0,
-                              "ToolTipField" : "",
-                              "ToolTipStyle" : "DefaultTooltipStyle",
-                              "Top" : 25,
-                              "Type" : "button",
-                              "Visible" : true,
-                              "Width" : 75,
-                              "Z-index" : 10,
-                              "__TypeDisplayName" : "Button",
-                              "__supportsTooltip" : true
-                            },
-                            "Widgets" : [ ]
-                          }, {
                             "Properties" : {
                               "ActiveStyle" : "DefaultButtonActiveStyle",
                               "Area" : "UI",
